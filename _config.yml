@@ -83,11 +83,11 @@ author:
   name             : "Lei Zhang"
   avatar           : "profile.png"
   bio              : "Climate scientist, specializes in tropical climate variability and change"
-  location         : "Univ. of Colorado, Boulder, US"
+  location         : "https://www.google.com/maps/dir//MacAllister+Research+Center,+Boulder,+CO+80303%E7%BE%8E%E5%9B%BD/@40.0098007,-105.2771138,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x876bedea1296608f:0x2ab89dcf94d96e9d!2m2!1d-105.2420086!2d40.009806!3e0"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=xtYswe4AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Lei_Zhang224"
+  researchgate     : "https://www.researchgate.net/profile/Lei_Zhang224"
   uri              :
   bitbucket        :
   codepen          :
