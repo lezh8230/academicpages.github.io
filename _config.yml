@@ -14,7 +14,7 @@ description              : &description "Climate Scientist"
 url                      : https://lezh8230.github.io/atoc/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "Lei Zhang"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
