@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Atmospheric Sciences, Ocean University of China, 2008
+* M.S. in Meteorology, Ocean University of China, 2011
+* Ph.D in Atmospheric Sciences, University of Hawaii at Manoa, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Postdoctoral Scholar
+  * International Pacific Research Center (IPRC)
+  * University of Hawaii at Manoa
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2017: Postdoctoral Research Associate
+  * Cooperative Institute for Research in Environmental Sciences (CIRES)
+  * University of Colorado Boulder
+
+* 2017-Pres: Postdoctoral Research Associate
+  * Department of Atmospheric and Oceanic Sciences
+  * University of Colorado Boulder
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
